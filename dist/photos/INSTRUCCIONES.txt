@@ -1,0 +1,19 @@
+📁 CARPETA DE FOTOS
+====================
+
+Coloca aquí tus fotos con estos nombres exactos:
+
+  foto1.jpg
+  foto2.jpg
+  foto3.jpg
+  foto4.jpg
+  foto5.jpg
+  foto6.jpg
+
+Puedes poner desde 1 hasta 6 fotos.
+Las que no existan simplemente no se mostrarán.
+
+Las fotos aparecerán dispersas en el fondo
+con un efecto glassmorphism muy elegante 💕
+
+Formatos: .jpg, .jpeg, .png, .webp

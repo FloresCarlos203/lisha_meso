@@ -1,0 +1,14 @@
+📁 CARPETA DE MÚSICA
+====================
+
+Coloca aquí tu archivo de música con el nombre:
+
+  cancion.mp3
+
+También puedes usar: cancion.ogg o cancion.wav
+
+El archivo se reproducirá automáticamente cuando
+alguien abra la página (después de que hagan clic
+en el botón de reproducir que aparece en pantalla).
+
+Formatos soportados: .mp3, .ogg, .wav, .m4a
